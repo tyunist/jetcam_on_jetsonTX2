@@ -15,3 +15,4 @@ pip3 install traitlets
 ```
 
 # Install jetcam
+[Link](https://github.com/NVIDIA-AI-IOT/jetcam)
